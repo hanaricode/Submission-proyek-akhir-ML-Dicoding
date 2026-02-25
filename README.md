@@ -22,10 +22,11 @@ This project is the final submission for the **Machine Learning Beginner** / **A
 
 ### 🎯 Clustering
 
-**Method Used:** K-Means
-
-**Optimal Number of Clusters:** 2</br>
-**Determined using:** Elbow Method
+|                |                         |
+|----------------|-------------------------|
+| **Method Used**               | K-Means        |
+| **Optimal Number of Clusters**| 2              |
+| **Determined using**          | Elbow Method   |
 
 | Cluster | Characteristics | Sample Count | Interpretation |
 |---------|-----------------|--------------|----------------|
