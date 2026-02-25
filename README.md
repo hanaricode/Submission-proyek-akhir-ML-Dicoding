@@ -1,6 +1,6 @@
 # Final Project Submission - Machine Learning Dicoding
 
-This project is the final submission for the **Machine Learning Beginner** / **Applied Machine Learning** class at Dicoding. It covers the implementation of **Clustering** and **Classification** using various machine learning algorithms.
+This project is the final submission for the **Machine Learning Beginner** class at Dicoding. It covers the implementation of **Clustering** and **Classification** using various machine learning algorithms.
 
 ---
 
