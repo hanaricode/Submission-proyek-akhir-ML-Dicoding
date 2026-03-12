@@ -7,6 +7,8 @@ This project is the final submission for the **Machine Learning Beginner** class
 ## 📁 Repository Structure
 ├── [Clustering]Submission_Akhir_BMLP_Irfan_Maulana_Hakim.ipynb</br>
 ├── [Klasifikasi]Submission_Akhir_BMLP_Irfan_Maulana_Hakim.ipynb</br>
+├── [Clustering]Submission_Akhir_BMLP_Irfan_Maulana_Hakim.py</br>
+├── [Klasifikasi]Submission_Akhir_BMLP_Irfan_Maulana_Hakim.py</br>
 ├── data_clustering.csv</br>
 ├── data_clustering_inverse.csv</br>
 ├── model_clustering.h5</br>
