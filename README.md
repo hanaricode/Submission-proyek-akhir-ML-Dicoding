@@ -92,3 +92,9 @@ jupyter notebook
 jupyter notebook "[Clustering]_Submission_Akhir_BMLP_Irfan_Maulana_Hakim.ipynb"
 jupyter notebook "[Klasifikasi]_Submission_Akhir_BMLP_Irfan_Maulana_Hakim.ipynb"
 ```
+
+---
+
+## 👤 Author & 📄 License
+- **Name** : Hanari
+- © 2026 Hanari. All Rights Reserved.
